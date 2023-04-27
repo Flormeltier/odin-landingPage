@@ -1,3 +1,3 @@
 # odin-landingPage
-- build website from jpg
-me trying to build a basic webpage
+- build website from a given design 
+
